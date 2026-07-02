@@ -12,3 +12,12 @@
   - console.log()
   - Reassigning variables# Coding-journey-
 
+## Day 2
+- Started C Programming
+- Completed Hello World program
+- Completed Print Name program
+- Learned:
+  - Variables
+  - Data Types
+  - printf()
+  - scanf()

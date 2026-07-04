@@ -11,18 +11,23 @@
   - Strings
   - console.log()
   - Reassigning variables# Coding-journey-
-
+ 
 ## Day 2
 - Started C Programming
 - Completed Hello World program
 - Completed Print Name program
 - Learned:
-  - Variables
+  -variable
   - Data Types
   - printf()
-  - scanf()
- 
-## Day 3
+  - scanf() 
+
+## Day 3 
+solved some practice questions 
+and reviced
+
+
+## Day 4
 c programming.-
 - completed character program
 - complete Boolean program

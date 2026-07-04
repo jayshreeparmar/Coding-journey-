@@ -21,3 +21,15 @@
   - Data Types
   - printf()
   - scanf()
+ 
+## Day 3
+c programming.-
+- completed character program
+- complete Boolean program
+- complete float double program
+ - learned :
+ - integres
+ - character
+ - float - double
+ - consonants
+

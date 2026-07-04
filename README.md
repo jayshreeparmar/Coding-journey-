@@ -33,7 +33,8 @@ Completed Programs
 - Character Program
 - Boolean Program
 - Float & Double Program
-Concepts Learned
+
+-Concepts Learned
 - Integers
 - Characters
 - Float and Double Data Types

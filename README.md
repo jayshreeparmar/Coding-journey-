@@ -33,8 +33,8 @@ c programming.-
 - complete Boolean program
 - complete float double program
  - learned :
- - integres
- - character
- - float - double
- - consonants
+   -integers
+   -character
+   -float - double
+   -consonants
 

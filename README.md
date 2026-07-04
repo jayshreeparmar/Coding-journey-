@@ -28,13 +28,15 @@ and reviced
 
 
 ## Day 4
-c programming.-
-- completed character program
-- complete Boolean program
-- complete float double program
- - learned :
-    -integers
-    -character
-    -float - double
-    -consonants
+  C Programming
+Completed Programs
+- Character Program
+- Boolean Program
+- Float & Double Program
+Concepts Learned
+- Integers
+- Characters
+- Float and Double Data Types
+- Consonants
+- Basic Input and Output
 

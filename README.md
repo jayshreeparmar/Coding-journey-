@@ -43,12 +43,12 @@ Completed Programs
 
 ## Day 5 
   c programming 
-  concept learn 
-  overview of operator 
-  Arithmetic operator in c
-  Assignment operation in c
+-concept learn 
+ - overview of operator
+ -Arithmetic operator in c
+ -Assignment operation in c
 complete program 
-   Question practice program based on concept 
+   -Question practice program based on concept 
 
    
   

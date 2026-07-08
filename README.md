@@ -43,7 +43,7 @@ Completed Programs
 
 ## Day 5 
   c programming 
--concept learn 
+-concept learn :- 
 - overview of operator
 -Arithmetic operator in c
 -Assignment operation in c

@@ -41,3 +41,14 @@ Completed Programs
 - Consonants
 - Basic Input and Output
 
+## Day 5 
+  c programming 
+  concept learn 
+  overview of operator 
+  Arithmetic operator in c
+  Assignment operation in c
+complete program 
+   Question practice program based on concept 
+
+   
+  
